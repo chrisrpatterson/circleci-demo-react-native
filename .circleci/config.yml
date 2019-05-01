@@ -152,6 +152,3 @@ workflows:
       - android:
           requires:
             - node
-      - ios:
-          requires:
-            - node
